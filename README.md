@@ -2,6 +2,8 @@
 
 This comprehensive setup guide contains all the essential tools, applications, and configurations discovered on your current MacBook. Use this as a reference when setting up a new Mac.
 
+# Note: Ignore versions.
+
 ## Development Tools & Languages
 
 ### Core Development
