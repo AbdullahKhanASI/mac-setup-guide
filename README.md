@@ -26,6 +26,8 @@ This comprehensive setup guide contains all the essential tools, applications, a
 - **Cursor CLI** - Cursor AI code editor command line tool
 - **Ollama** (v0.11.3) - Local LLM runner
 - **GitHub CLI** (v2.76.2) - GitHub command line tool
+- **ChatGPT Desktop** - ChatGPT Desktop version with App access
+- **Claude Desktop** - Claude Desktop version with MCP and App access
 
 ### Code Editors & IDEs
 - **Cursor** - Primary AI-powered code editor (recommended)
