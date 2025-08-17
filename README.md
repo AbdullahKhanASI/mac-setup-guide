@@ -23,6 +23,7 @@ This comprehensive setup guide contains all the essential tools, applications, a
 
 ### AI & Development Tools
 - **Claude Code** (v1.0.70) - Anthropic's Claude CLI
+- **Claude Code Router** - Claude Code Router for using different LLMs with Claude Code
 - **Cursor CLI** - Cursor AI code editor command line tool
 - **Ollama** (v0.11.3) - Local LLM runner
 - **GitHub CLI** (v2.76.2) - GitHub command line tool
