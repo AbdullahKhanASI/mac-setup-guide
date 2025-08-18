@@ -11,6 +11,8 @@ This comprehensive setup guide contains all the essential tools, applications, a
 - **npm** (v11.5.2) - Node package manager
 - **Python** (v3.13.5) - Programming language
 - **pip** (v25.2) - Python package manager
+- **uv** - Fast Python package installer and resolver
+- **uvicorn** - Lightning-fast ASGI server for Python web apps
 - **Git** (v2.50.1) - Version control system
 - **Docker** (v28.3.2) - Containerization platform
 
