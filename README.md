@@ -116,6 +116,15 @@ This comprehensive setup guide contains all the essential tools, applications, a
 - **Wispr Flow** - Voice-to-text productivity tool
 - **Cloudflare WARP** - VPN and DNS service
 - **Blackmagic Proxy Generator Lite** - Video proxy generation
+- **Raycast** - Spotlight replacement and productivity launcher
+  - Setup shortcuts after installation:
+    - **ChatGPT** - Quick access to ChatGPT conversations
+    - **Claude** - Direct access to Claude AI
+    - **Claude Projects** - Access to Claude Projects workspace
+    - **ChatGPT Search** - Search functionality through ChatGPT
+    - **Gemini** - Google Gemini AI assistant
+    - **Perplexity** - Perplexity AI search and answers
+    - **Grok** - X/Twitter's Grok AI assistant
 
 ### Browsers & Web Tools
 - **Google Chrome** - Web browser
