@@ -116,6 +116,7 @@ This comprehensive setup guide contains all the essential tools, applications, a
 - **Wispr Flow** - Voice-to-text productivity tool
 - **Cloudflare WARP** - VPN and DNS service
 - **Blackmagic Proxy Generator Lite** - Video proxy generation
+- **Clocker** - Menubar world clock and time zone app
 - **Raycast** - Spotlight replacement and productivity launcher
   - Setup shortcuts after installation:
     - **ChatGPT** - Quick access to ChatGPT conversations
@@ -127,6 +128,7 @@ This comprehensive setup guide contains all the essential tools, applications, a
     - **Grok** - X/Twitter's Grok AI assistant
 
 ### Browsers & Web Tools
+- **Arc** - Modern web browser with workspaces and AI features
 - **Google Chrome** - Web browser
 - **Safari** - Default macOS web browser
 
