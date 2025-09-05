@@ -33,9 +33,9 @@ This comprehensive setup guide contains all the essential tools, applications, a
 - **Claude Desktop** - Claude Desktop version with MCP and App access
 
 ### Code Editors & IDEs
-- **Cursor** - Primary AI-powered code editor (recommended)
+- **Visual Studio Code** (v1.102.1) - Primary code editor (recommended)
+- **Cursor** - Alternative AI-powered code editor
   - Import settings from VSCode when setting up
-- **Visual Studio Code** (v1.102.1) - Alternative code editor
 
 ## Coding Workflow
 
