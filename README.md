@@ -37,6 +37,32 @@ This comprehensive setup guide contains all the essential tools, applications, a
   - Import settings from VSCode when setting up
 - **Visual Studio Code** (v1.102.1) - Alternative code editor
 
+## Coding Workflow
+
+### Main IDE: VSCode
+**VSCode AI Add-ons:**
+- Claude Code
+- Github Copilot & Copilot Chat
+- Codex
+
+### Fallback IDE: Cursor
+**Cursor AI Add-ons:**
+- Claude Code
+- Cursor Tab Completions
+- Codex
+
+### AI Coding Agents
+**Main AI Coding Agents:**
+- Claude Code
+- Github Copilot
+
+**Fallback Coding Agents:**
+- Codex
+- Cursor
+- Windsurf
+- AugmentCode
+- Gemini Code Completions
+
 ## Package Managers & Version Managers
 
 ### Homebrew
