@@ -62,6 +62,8 @@ This comprehensive setup guide contains all the essential tools, applications, a
 - Windsurf
 - AugmentCode
 - Gemini Code Completions
+- Warp Code
+- Cline
 
 ## Package Managers & Version Managers
 
